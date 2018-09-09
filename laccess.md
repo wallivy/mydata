@@ -20,7 +20,7 @@
 
 
 ## 心得
- - [01：为什么学习Access]()
- - [02：理解范式]()
+ - [01：为什么学习Access](https://github.com/wallivy/mydata/blob/master/myideas/myidea01.md)
+ - [02：理解范式](https://github.com/wallivy/mydata/blob/master/myideas/myidea02.md)
 
 ## 案例
