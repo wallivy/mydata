@@ -3,6 +3,7 @@
 - [Microsofe Access 2010 Bible](https://db.tt/D4RsWvqesY)
 - [企业数据库全局战略中的Access](http://www.jasoftiger.com/access/microsoft-access-within-an-organizations-overall-database-strategy.html)
 - [数据库设计范式](https://www.cnblogs.com/xiaxianfei/p/5454707.html)
+- [理解数据库范式](https://www.xuebuyuan.com/504431.html)
 - [Access教程](https://www.yiibai.com/access/)
 - [数据规范化技巧](http://www.51zixue.net/ACCESS/13527.html)
 - [《项目成本管理系统》用数据说话--记我的Access学习经历及开发心得](http://www.accessoft.com/article-show.asp?id=16430)
