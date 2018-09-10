@@ -17,4 +17,4 @@
  - [01：为什么学习Access](https://github.com/wallivy/mydata/blob/master/myideas/myidea01.md)
  - [02：理解范式](https://github.com/wallivy/mydata/blob/master/myideas/myidea02.md)
  - [03：数据库规范化](https://github.com/wallivy/mydata/blob/master/myideas/myidea03.md)
- - [04：Access表]()
+ - [04：Access表](https://github.com/wallivy/mydata/blob/master/myideas/myidea04.md)
