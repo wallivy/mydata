@@ -23,3 +23,11 @@
 - [树形结构的数据库表Schema设计](https://www.xuebuyuan.com/1087392.html)
 - [面向对象的关系数据库设计](http://www.nowamagic.net/database/db_OODBDesign.php)
 - [数据库表结构设计方法及原则](http://wubx.net/数据库表结构设计方法及原则/)
+
+## 数据思维
+- [什么是数字化、数据思维和数据化管理？](https://zhuanlan.zhihu.com/p/30597115)
+- [数据库思维](https://zhuanlan.zhihu.com/p/27368536)
+- [千禧数据化设计思维](https://kb.cnblogs.com/page/513014/)
+- [梅宏院士：建立大数据思维方法](http://www.ciotimes.com/bigdata/144776.html)
+- [当人们关注“数据分析”，人们在关注什么？](http://chuansong.me/n/1916372936713)
+-

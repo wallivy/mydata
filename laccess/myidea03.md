@@ -1,5 +1,9 @@
-# 数据库规范化
+# 创建数据库
 ---
+## [Access创建数据库](https://www.yiibai.com/access/ms_access_create_database.html)
+- 从模板创建
+- 创建空白数据库
+
 ## [数据库设计11条原则](https://www.cnblogs.com/ningskyer/articles/5632017.html)
 大家都说标准规范是重要的指导方针并且也这么做着，但是把它当作石头上的一块标记来记着（死记硬背）还是会带来麻烦的。以下 11 点是我在数据库设计时最优先考虑的规则。
 - 规则 1：弄清楚将要开发的应用程序是什么性质的（OLTP 还是 OPAP）？
